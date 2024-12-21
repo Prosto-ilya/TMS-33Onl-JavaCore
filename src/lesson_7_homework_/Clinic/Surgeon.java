@@ -1,4 +1,4 @@
-package Lesson_7_homework_.Clinic;
+package lesson_7_homework_.Clinic;
 
 public class Surgeon extends Doctors{
     public Surgeon(String name, String surname, int age, String position, int experience) {

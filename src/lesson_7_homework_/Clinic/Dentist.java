@@ -1,4 +1,4 @@
-package Lesson_7_homework_.Clinic;
+package lesson_7_homework_.Clinic;
 
 public class Dentist extends Doctors{
 
