@@ -1,4 +1,4 @@
-package Lesson_6_homework.ATM;
+package lesson_6_homework.ATM;
 
 public class MyMain {
     public static void main(String[] args){

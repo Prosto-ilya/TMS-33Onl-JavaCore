@@ -1,4 +1,4 @@
-package Lesson_6_homework.ATM;
+package lesson_6_homework.ATM;
 
 import java.util.Scanner;
 

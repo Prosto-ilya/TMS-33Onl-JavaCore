@@ -1,4 +1,4 @@
-package Lesson_6_homework.CreditCard;
+package lesson_6_homework.CreditCard;
 
 import java.util.Scanner;
 
