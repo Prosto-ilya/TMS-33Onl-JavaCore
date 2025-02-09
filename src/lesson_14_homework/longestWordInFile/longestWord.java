@@ -1,4 +1,4 @@
-package Lesson_14_homework.longestWordInFile;
+package lesson_14_homework.longestWordInFile;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
