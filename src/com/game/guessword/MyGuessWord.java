@@ -57,7 +57,7 @@ public class MyGuessWord {
 
             while (true){
                 String input = getInput().nextLine();
-                if (input.length() == 0){
+                if (input.isEmpty()){
 
                     System.out.println("You have entered no value. Please, re-enter value");
                     continue;
